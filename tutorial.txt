@@ -1,0 +1,3 @@
+Truy cập : vpngate-client-v4.34-9745-beta-2020.04.05.exe
+Khi xuất hiện app SoftEther VPN client Manager thì click vào VPN Gate Public VPN Replay Servers
+Chọn IP mong muốn và ấn vào connect to the VPN server
